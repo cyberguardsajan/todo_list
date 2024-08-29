@@ -4,7 +4,18 @@ def main():
     filename = "tasks.txt"
 
     while True:
-        print("\nTo-Do List")
+        print("""
+        
+  _______          _         _ _     _   
+ |__   __|        | |       | (_)   | |  
+    | | ___     __| | ___   | |_ ___| |_ 
+    | |/ _ \   / _` |/ _ \  | | / __| __|
+    | | (_) | | (_| | (_) | | | \__ \ |_ 
+    |_|\___/   \__,_|\___/  |_|_|___/\__|
+                                         
+                                         
+
+        """)
         print("1. Add Task")
         print("2. View Tasks")
         print("3. Mark Task as Completed")
