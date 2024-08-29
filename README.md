@@ -15,7 +15,7 @@ This is a simple command-line based To-Do List application written in Python. It
     ```bash
     git clone https://github.com/cyberguardsajan/todo_list.git
 
-    cd todo-list
+    cd todo_list
     ```
 
 2. **Run the Application**:
