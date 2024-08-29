@@ -1,10 +1,5 @@
 
-
-def main():
-    filename = "tasks.txt"
-
-    while True:
-        print("""
+print("""
         
   _______          _         _ _     _   
  |__   __|        | |       | (_)   | |  
@@ -16,6 +11,11 @@ def main():
                                          
 
         """)
+
+def main():
+    filename = "tasks.txt"
+
+    while True:
         print("1. Add Task")
         print("2. View Tasks")
         print("3. Mark Task as Completed")
